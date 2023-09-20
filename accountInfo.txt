@@ -1,0 +1,4 @@
+1,Greg Reid,500.0,chequing
+2,Eric Medina,345.56,savings
+3,Aarya Shah,78.45,seniorchild
+4,Viroz D'Souza,250,chequing
